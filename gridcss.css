@@ -1,0 +1,29 @@
+
+/* 
+    Created on : 05 Mar 2016, 8:30:35 PM
+    Author     : Danai Guruva
+*/
+div.venue
+    {   
+float: left;
+padding: 10px;
+background: #B0E0E6;
+height: 150px;
+margin: 10px;
+width: 340px;
+    }
+div.venue a
+    {
+color:#000;
+text-decoration: none;
+
+    }
+div.venue .icon
+    {
+background: #000;
+width: 88px;
+height: 88px;
+float: left;
+margin: 0px 10px 0px 0px;
+    }
+    
